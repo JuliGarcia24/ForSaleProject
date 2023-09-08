@@ -13,12 +13,18 @@ Cliente
 Reserva(?
 ```
 
-HERENCIA de Inmueble?
+HERENCIA de Inmueble
 ```
 Casa
 PH
 Departamento
 Local
+```
+
+HERENCIA de Operacion
+```
+Venta
+Alquiler
 ```
 
 Herencia de Local
