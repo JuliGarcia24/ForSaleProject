@@ -1,10 +1,8 @@
-# ForSaleProject
+# **ForSaleProject**
 
 
-### Clases A Utilizar
-
-CLASES
-
+## Clases A Utilizar
+```
 Empleado
 Alquiler
 Venta
@@ -13,17 +11,18 @@ Operacion
 Zona
 Cliente
 Reserva(?
-
+```
 
 HERENCIA de Inmueble?
-
+```
 Casa
 PH
 Departamento
 Local
-
+```
 
 Herencia de Local
-
+```
 Galpon
 AlaCalle
+```
